@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/mohamed-salem-4ds3-ml_project/mlruns/974523813568130009/f687c054891649d5a98080f9269e354d/artifacts
+end_time: 1741341496628
+entry_point_name: ''
+experiment_id: '974523813568130009'
+lifecycle_stage: active
+run_id: f687c054891649d5a98080f9269e354d
+run_name: serious-eel-114
+run_uuid: f687c054891649d5a98080f9269e354d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741341482521
+status: 3
+tags: []
+user_id: user

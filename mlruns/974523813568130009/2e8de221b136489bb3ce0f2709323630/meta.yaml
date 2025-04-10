@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/mohamed-salem-4ds3-ml_project/mlruns/974523813568130009/2e8de221b136489bb3ce0f2709323630/artifacts
+end_time: 1741336418029
+entry_point_name: ''
+experiment_id: '974523813568130009'
+lifecycle_stage: active
+run_id: 2e8de221b136489bb3ce0f2709323630
+run_name: bemused-calf-186
+run_uuid: 2e8de221b136489bb3ce0f2709323630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741336417411
+status: 4
+tags: []
+user_id: user

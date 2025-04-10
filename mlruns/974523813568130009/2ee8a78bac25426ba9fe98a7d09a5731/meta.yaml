@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/mohamed-salem-4ds3-ml_project/mlruns/974523813568130009/2ee8a78bac25426ba9fe98a7d09a5731/artifacts
+end_time: 1741340963323
+entry_point_name: ''
+experiment_id: '974523813568130009'
+lifecycle_stage: active
+run_id: 2ee8a78bac25426ba9fe98a7d09a5731
+run_name: exultant-ape-895
+run_uuid: 2ee8a78bac25426ba9fe98a7d09a5731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741340962690
+status: 4
+tags: []
+user_id: user

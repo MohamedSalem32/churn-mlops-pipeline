@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/mohamed-salem-4ds3-ml_project/mlruns/974523813568130009/f0016b29719c44e685d3dd7d13c9d87c/artifacts
+end_time: 1739917608800
+entry_point_name: ''
+experiment_id: '974523813568130009'
+lifecycle_stage: active
+run_id: f0016b29719c44e685d3dd7d13c9d87c
+run_name: luminous-squid-146
+run_uuid: f0016b29719c44e685d3dd7d13c9d87c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739917601895
+status: 3
+tags: []
+user_id: user

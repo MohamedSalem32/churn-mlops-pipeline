@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/mohamed-salem-4ds3-ml_project/mlruns/974523813568130009/ec863546af394010992ca843e3290a5f/artifacts
+end_time: 1741339772454
+entry_point_name: ''
+experiment_id: '974523813568130009'
+lifecycle_stage: active
+run_id: ec863546af394010992ca843e3290a5f
+run_name: languid-finch-405
+run_uuid: ec863546af394010992ca843e3290a5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741339771758
+status: 4
+tags: []
+user_id: user

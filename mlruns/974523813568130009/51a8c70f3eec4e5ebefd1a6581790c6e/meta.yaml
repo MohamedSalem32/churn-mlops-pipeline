@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/mohamed-salem-4ds3-ml_project/mlruns/974523813568130009/51a8c70f3eec4e5ebefd1a6581790c6e/artifacts
+end_time: 1739916725322
+entry_point_name: ''
+experiment_id: '974523813568130009'
+lifecycle_stage: active
+run_id: 51a8c70f3eec4e5ebefd1a6581790c6e
+run_name: rare-crab-533
+run_uuid: 51a8c70f3eec4e5ebefd1a6581790c6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739916725301
+status: 4
+tags: []
+user_id: user
