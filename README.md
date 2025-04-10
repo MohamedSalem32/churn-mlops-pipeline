@@ -43,7 +43,7 @@ make run       # Run the container
 make push      # Push image to Docker Hub
 ```
 ## ✍️ Author
-Mohamed Mohamed Salem
-📧 mohamed.salem22032@gmail.com
-📍 Data Science Engineer | ESPRIT | 4DS3 Option Data Science
-📦 Docker Hub: mohamedsalem32
+- Mohamed Mohamed Salem
+- 📧 mohamed.salem22032@gmail.com
+- 📍 Data Science Engineer | ESPRIT | 4DS3 Option Data Science
+- 📦 Docker Hub: mohamedsalem32
