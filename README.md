@@ -32,7 +32,7 @@ make serve-api
 
 # 4. Open MLflow tracking UI
 make mlflow-ui
-
+```
 ---
 
 ## 🐳 Docker Usage
@@ -41,7 +41,7 @@ make mlflow-ui
 make build     # Build Docker image
 make run       # Run the container
 make push      # Push image to Docker Hub
-
+```
 ## ✍️ Author
 Mohamed Mohamed Salem
 📧 mohamed.salem22032@gmail.com
